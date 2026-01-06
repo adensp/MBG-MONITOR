@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "name": "kecamatan_sidoarjo_mbg",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "kecamatan": "Sidoarjo Kota", "status": "Tersalurkan", "porsi": 2450 },
+      "geometry": { "type": "Polygon", "coordinates": [[[112.705, -7.435], [112.730, -7.435], [112.730, -7.460], [112.705, -7.460], [112.705, -7.435]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kecamatan": "Buduran", "status": "Tersalurkan", "porsi": 1820 },
+      "geometry": { "type": "Polygon", "coordinates": [[[112.720, -7.410], [112.745, -7.410], [112.745, -7.430], [112.720, -7.430], [112.720, -7.410]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kecamatan": "Candi", "status": "Tersalurkan", "porsi": 2100 },
+      "geometry": { "type": "Polygon", "coordinates": [[[112.700, -7.470], [112.730, -7.470], [112.730, -7.500], [112.700, -7.500], [112.700, -7.470]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kecamatan": "Waru", "status": "Persiapan", "porsi": 3500 },
+      "geometry": { "type": "Polygon", "coordinates": [[[112.730, -7.340], [112.760, -7.340], [112.760, -7.370], [112.730, -7.370], [112.730, -7.340]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kecamatan": "Taman", "status": "Persiapan", "porsi": 3200 },
+      "geometry": { "type": "Polygon", "coordinates": [[[112.680, -7.340], [112.710, -7.340], [112.710, -7.370], [112.680, -7.370], [112.680, -7.340]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kecamatan": "Krian", "status": "Tersalurkan", "porsi": 2800 },
+      "geometry": { "type": "Polygon", "coordinates": [[[112.570, -7.390], [112.600, -7.390], [112.600, -7.420], [112.570, -7.420], [112.570, -7.390]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kecamatan": "Jabon", "status": "Tersalurkan", "porsi": 950 },
+      "geometry": { "type": "Polygon", "coordinates": [[[112.720, -7.540], [112.760, -7.540], [112.760, -7.580], [112.720, -7.580], [112.720, -7.540]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kecamatan": "Gedangan", "status": "Tersalurkan", "porsi": 1500 },
+      "geometry": { "type": "Polygon", "coordinates": [[[112.710, -7.380], [112.740, -7.380], [112.740, -7.410], [112.710, -7.410], [112.710, -7.380]]] }
+    }
+  ]
+}
